@@ -21,6 +21,16 @@
       "filterable": 1,
       "ext": "./json/短剧分享.json"
     },
+		{
+      "key": "MM短剧网",
+      "name": "MM短剧网",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./json/MM短剧网.json"
+    },
     {
       "key": "短剧天堂",
       "name": "短剧天堂",
